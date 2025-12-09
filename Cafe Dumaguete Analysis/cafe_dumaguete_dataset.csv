@@ -1,0 +1,91 @@
+Date,Branch,Customers,Weather,Promotion,Top_Product,Sales
+2025-01-01,South,173,Cloudy,Yes,Milk Tea,23659.42
+2025-01-02,North,90,Sunny,No,Milk Tea,12978.45
+2025-01-03,South,64,Cloudy,No,Milk Tea,8623.59
+2025-01-04,South,94,Sunny,No,Pastry,12443.58
+2025-01-05,North,114,Sunny,Yes,Americano,15906.84
+2025-01-06,North,138,Sunny,No,Frappe,19774.35
+2025-01-07,South,120,Rainy,No,Pastry,12501.51
+2025-01-08,Central,58,Rainy,Yes,Milk Tea,8264.77
+2025-01-09,South,137,Rainy,No,Latte,15974.46
+2025-01-10,South,178,Sunny,No,Milk Tea,23650.83
+2025-01-11,South,185,Rainy,No,Americano,21093.87
+2025-01-12,South,112,Rainy,No,Milk Tea,12780.21
+2025-01-13,North,188,Sunny,No,Latte,23141.62
+2025-01-14,South,130,Sunny,No,Americano,19119.96
+2025-01-15,Central,185,Sunny,No,Milk Tea,25004.15
+2025-01-16,North,82,Cloudy,Yes,Americano,11373.9
+2025-01-17,Central,172,Sunny,No,Frappe,22291.46
+2025-01-18,Central,54,Cloudy,Yes,Frappe,7991.03
+2025-01-19,Central,90,Sunny,Yes,Milk Tea,12934.5
+2025-01-20,Central,77,Cloudy,No,Americano,8338.53
+2025-01-21,North,184,Cloudy,No,Latte,24369.94
+2025-01-22,North,121,Sunny,No,Milk Tea,14851.37
+2025-01-23,Central,61,Rainy,No,Frappe,6323.48
+2025-01-24,Central,82,Rainy,No,Frappe,9741.72
+2025-01-25,North,97,Cloudy,Yes,Milk Tea,13775.17
+2025-01-26,North,111,Sunny,Yes,Americano,16543.34
+2025-01-27,North,86,Sunny,No,Frappe,11950.14
+2025-01-28,South,148,Cloudy,No,Americano,17775.99
+2025-01-29,South,153,Cloudy,Yes,Frappe,19146.18
+2025-01-30,South,84,Sunny,Yes,Frappe,12230.77
+2025-01-31,Central,150,Sunny,No,Pastry,21026.33
+2025-02-01,South,180,Cloudy,No,Frappe,23096.54
+2025-02-02,Central,50,Sunny,Yes,Latte,8300.78
+2025-02-03,Central,54,Rainy,No,Milk Tea,6207.35
+2025-02-04,South,191,Cloudy,No,Milk Tea,21098.35
+2025-02-05,Central,152,Rainy,Yes,Americano,17761.71
+2025-02-06,South,76,Cloudy,No,Frappe,8326.11
+2025-02-07,South,186,Sunny,Yes,Latte,25912.74
+2025-02-08,North,64,Rainy,No,Americano,6822.19
+2025-02-09,South,139,Rainy,Yes,Pastry,17615.93
+2025-02-10,North,91,Sunny,Yes,Americano,13365.27
+2025-02-11,South,173,Sunny,No,Americano,21367.58
+2025-02-12,South,112,Cloudy,Yes,Frappe,13622.54
+2025-02-13,North,145,Rainy,Yes,Pastry,17450.95
+2025-02-14,North,101,Sunny,No,Americano,13993.2
+2025-02-15,South,145,Cloudy,Yes,Latte,17398.01
+2025-02-16,Central,181,Cloudy,No,Latte,19959.03
+2025-02-17,North,192,Rainy,Yes,Milk Tea,22630.76
+2025-02-18,Central,78,Cloudy,No,Pastry,8577.24
+2025-02-19,Central,85,Sunny,No,Pastry,12295.74
+2025-02-20,Central,62,Sunny,No,Milk Tea,8753.61
+2025-02-21,North,120,Cloudy,No,Americano,13223.57
+2025-02-22,Central,135,Cloudy,Yes,Pastry,16202.13
+2025-02-23,North,77,Cloudy,No,Latte,10367.22
+2025-02-24,Central,115,Sunny,No,Latte,15091.23
+2025-02-25,South,94,Cloudy,No,Frappe,11092.69
+2025-02-26,South,111,Cloudy,Yes,Pastry,15692.95
+2025-02-27,North,183,Cloudy,Yes,Americano,25889.12
+2025-02-28,South,77,Cloudy,No,Milk Tea,10365.9
+2025-03-01,South,77,Rainy,No,Milk Tea,8784.24
+2025-03-02,Central,157,Rainy,No,Americano,16489.75
+2025-03-03,North,93,Sunny,No,Frappe,11392.97
+2025-03-04,Central,133,Cloudy,Yes,Milk Tea,18608.79
+2025-03-05,Central,79,Cloudy,No,Pastry,9723.08
+2025-03-06,Central,124,Sunny,No,Frappe,16458.11
+2025-03-07,Central,177,Sunny,No,Pastry,26052.74
+2025-03-08,Central,141,Sunny,Yes,Latte,18508.49
+2025-03-09,Central,178,Sunny,No,Frappe,23990.62
+2025-03-10,Central,170,Cloudy,No,Milk Tea,18412.11
+2025-03-11,North,76,Sunny,Yes,Frappe,11360.12
+2025-03-12,South,170,Sunny,Yes,Frappe,21707.45
+2025-03-13,Central,165,Sunny,No,Frappe,20388.15
+2025-03-14,Central,52,Sunny,No,Frappe,6423.34
+2025-03-15,Central,152,Sunny,Yes,Pastry,22552.58
+2025-03-16,Central,186,Cloudy,No,Latte,23834.64
+2025-03-17,Central,111,Cloudy,No,Americano,13736.36
+2025-03-18,Central,100,Sunny,No,Frappe,14886.52
+2025-03-19,South,108,Rainy,Yes,Milk Tea,12243.15
+2025-03-20,South,167,Rainy,Yes,Frappe,17811.15
+2025-03-21,Central,145,Rainy,Yes,Milk Tea,17471.51
+2025-03-22,South,162,Sunny,No,Pastry,20526.68
+2025-03-23,North,111,Rainy,No,Milk Tea,13222.02
+2025-03-24,Central,101,Cloudy,Yes,Americano,12145.23
+2025-03-25,North,61,Sunny,No,Latte,9094.88
+2025-03-26,North,88,Cloudy,No,Milk Tea,9606.55
+2025-03-27,Central,179,Sunny,Yes,Milk Tea,26779.98
+2025-03-28,South,180,Sunny,Yes,Latte,25300.17
+2025-03-29,North,162,Rainy,Yes,Americano,20502.56
+2025-03-30,Central,150,Rainy,No,Frappe,14665.67
+2025-03-31,North,162,Cloudy,No,Milk Tea,19918.56
